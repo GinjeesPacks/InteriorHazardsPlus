@@ -8,7 +8,8 @@
 
 # Future Updates
 ---
-> - I want to add weather inside like rain, stormy(lightning)
+> - The only current issue is SpikeTraps not spawning on some custom interiors for modded moons.
+> - I want to add weather inside like rain, stormy(lightning).
 > - Possibly add completely new hazards if I can figure that out.
 > - Please make request or share your ideas, all are welcome.
 
